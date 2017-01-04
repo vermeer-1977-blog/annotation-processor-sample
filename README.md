@@ -3,7 +3,7 @@ Pluggable Annotation Processing API Sample
 
 Overview
 ----------
-Processorの実装とテストのサンプルです。  
+Processorの実装とテストのサンプルです。<br>
 クローンするだけで、とりあえず動くものを準備してみました。  
 
 LICENCE
